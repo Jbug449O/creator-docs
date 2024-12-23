@@ -1,6 +1,6 @@
 ---
-title: Get Started with Experiences on Roblox
-description: Learn how to create Roblox experiences with guides, tutorials, and code samples.
+title: Find the ruber ducks
+description: Welcome to FIND THE RUBBER DUCKS
 hideInPageNavigation: true
 ---
 
